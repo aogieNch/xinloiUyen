@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà! Yêu em nhiều nhiều 😘',
     messDesc: 'Tối nay 7h anh qua đón nhé.',
     btnAccept: 'Oki nho',
-    messLink: 'https://www.instagram.com/yuan_uyn.anh'
+    messLink: 'https://www.instagram.com/direct/t/100801831321389/'
 }
